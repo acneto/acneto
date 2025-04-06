@@ -4,7 +4,7 @@
 ### Writing
 
 - [OOP is a mistake. Simplicity is key](https://github.com/acneto/oop-is-a-mistake)
-- [Functional core, imperative shell](https://github.com/acneto/functional-core)
+- [Functional core, Imperative shell](https://github.com/acneto/functional-core)
 
 ### Favorite tech books
 
