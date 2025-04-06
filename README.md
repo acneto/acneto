@@ -3,7 +3,7 @@
 - [LinkedIn](www.linkedin.com/in/acnetto)
 ### Writing
 
-- [OOP is a mistake. simplicity is key](https://github.com/acneto/oop-is-a-mistake)
+- [OOP is a mistake. Simplicity is key](https://github.com/acneto/oop-is-a-mistake)
 - [Functional core, imperative shell](https://github.com/acneto/functional-core)
 
 ### Favorite tech books
