@@ -1,5 +1,5 @@
 ## I’m a senior software engineer with 15 years of experience. I can bridge the gap between product vision and solution implementation, troubleshoot infrastructure issues, optimize performance, and improve system reliability.
-## Currently at Telness Tech
+## Currently at [Telness Tech](www.telnesstech.com)
 
 ### Writing
 
