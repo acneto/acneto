@@ -5,6 +5,7 @@
 ### Writing
 
 - [OOP is a mistake. Simplicity is key](https://github.com/acneto/oop-is-a-mistake)
+- [Microservices or modular monolith?](https://github.com/acneto/microservices-modular-monolith)
 - [Functional core, Imperative shell](https://github.com/acneto/functional-core)
 
 ### Favorite tech books
