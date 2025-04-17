@@ -10,6 +10,7 @@
 
 ### Favorite tech books
 
+- [A Philosophy of Software Design](https://learning.oreilly.com/library/view/domain-modeling-made/9781680505481/)<br>
 - [Domain Modeling Made Functional](https://learning.oreilly.com/library/view/domain-modeling-made/9781680505481/)<br>
 - [Software Architecture: The Hard Parts](https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/)<br>
 - [Patterns, Principles and Practices of Domain-Driven Design DDD](https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/)<br>
