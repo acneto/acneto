@@ -1,5 +1,5 @@
 ## I’m a senior software engineer with 15 years of experience. I can bridge the gap between product vision and solution implementation, troubleshoot infrastructure issues, optimize performance, and improve system reliability. <br>
-- Currently at [Telness Tech](http://www.telnesstech.com)
+- Currently at [SEB](https://sebembedded.com/)
 - [LinkedIn](http://www.linkedin.com/in/acnetto)
   
 ### Writing
